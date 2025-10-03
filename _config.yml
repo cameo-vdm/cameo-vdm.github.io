@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering"
-email: 'pbj3810@kaist.ac.kr'
+title: "Cameo:Generating Human Motion Videos using a Cascaded Text-to-Video Framework" 
+email: 'hyelinam@umich.edu'
 description: "Byeongjun Park<sup>1,2</sup>*,&nbsp;&nbsp;Hyojun Go<sup>2</sup>*,&nbsp;&nbsp;Hyelin Nam<sup>2</sup>,&nbsp;&nbsp;Byung-Hoon Kim<sup>2,3</sup>,&nbsp;&nbsp;Hyungjin Chung<sup>2&#8224</sup>,&nbsp;&nbsp;&nbsp;Changick Kim<sup>1&#8224</sup><br/><br/><sup>1</sup>KAIST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>EverEx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3</sup>Yonsei University"
-baseurl: "/Cameo" # the subpath of your site, e.g. /blog
-url: "https://https://hyelinnam.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cameo-vdm.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 paper: 'https://arxiv.org/abs/2503.12024'
-github_username: 'https://github.com/HyelinNAM/hyelinnam.github.io'
+github_username: 'cameo-vdm'
 
 # Build settings
 markdown: kramdown
